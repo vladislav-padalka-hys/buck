@@ -20,6 +20,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'TIG_Buckaroo',
+    'Vlad_Buckaroo2',
     __DIR__
 );
